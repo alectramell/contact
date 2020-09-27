@@ -1,0 +1,9 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Tramell;Alec;;;
+FN:Alec Tramell
+TITLE:Software Developer
+PHOTO;MEDIATYPE#image/ico:URL
+EMAIL;type=INTERNET;type=WORK;type=pref:alectramell@gmail.com
+TEL;type=CELL:+1 801 893 1187
+END:VCARD
